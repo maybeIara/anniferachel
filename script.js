@@ -14,58 +14,58 @@ for (var i=0; i<images.length;i++){
 
 function video(evt){
     if (this.id==1){
-        showVideo("video_alexis.MOV")
+        showVideo("video_alexis.mp4")
     }
     else if (this.id==2){
         showVideo("video_cerise.mp4")
     }
     else if (this.id==3){
-        showVideo("video_chariots.MOV")
+        showVideo("video_chariots.mp4")
     }
     else if (this.id==4){
-        showVideo("video_chien.MOV")
+        showVideo("video_chien.mp4")
     }
     else if (this.id==5){
-        showVideo("video_classement.MOV")
+        showVideo("video_classement.mp4")
     }
     else if (this.id==6){
-        showVideo("video_courses.MOV")
+        showVideo("video_courses.mp4")
     }
     else if (this.id==7){
-        showVideo("video_elisa.MOV")
+        showVideo("video_elisa.mp4")
     }
     else if (this.id==10){
         showVideo("video_gabin.mp4")
     }
     else if (this.id==11){
-        showVideo("video_klara.MOV")
+        showVideo("video_klara.mp4")
     }
     else if (this.id==12){
-        showVideo("video_lulu.MOV")
+        showVideo("video_lulu.mp4")
     }
     else if (this.id==14){
-        showVideo("video_mae.MOV")
+        showVideo("video_mae.mp4")
     }
     else if (this.id==18){
-        showVideo("video_manelle.MOV")
+        showVideo("video_manelle.mp4")
     }
     else if (this.id==19){
-        showVideo("video_miaou.MOV")
+        showVideo("video_miaou.mp4")
     }
     else if (this.id==22){
-        showVideo("video_naomi.MOV")
+        showVideo("video_naomi.mp4")
     }
     else if (this.id==23){
-        showVideo("video_poursuite.MOV")
+        showVideo("video_poursuite.mp4")
     }
     else if (this.id==24){
-        showVideo("video_romane.MOV")
+        showVideo("video_romane.mp4")
     }
     else if (this.id==25){
-        showVideo("video_supershy.MOV")
+        showVideo("video_supershy.mp4")
     }
     else if (this.id==28){
-        showVideo("video_tom.MOV")
+        showVideo("video_tom.mp4")
     }
     else if (this.id==29){
         showVideo("video_lar.mp4")
